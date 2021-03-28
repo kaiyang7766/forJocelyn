@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://kaiyang7766.github.io/mymario",
+  "homepage": "http://kaiyang7766.github.io/forJocelyn",
   "scripts": {
     "start": "serve ./public",
     "predeploy": "npm run start",
