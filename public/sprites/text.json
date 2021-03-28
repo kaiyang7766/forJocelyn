@@ -1,0 +1,44 @@
+{
+	"imageURL":"/img/mergedtext.png",
+	"tileW":200,
+	"tileH":200,
+
+	"tiles":[
+		{
+			"name":"text_winnie",
+			"index":[0,0]
+		},
+		{
+			"name":"text_isaac",
+			"index":[1,0]
+		},
+		{
+			"name":"text_jiajia",
+			"index":[2,0]
+		},
+		{
+			"name":"text_peisi",
+			"index":[3,0]
+		},
+		{
+			"name":"text_dongxin",
+			"index":[4,0]
+		},
+		{
+			"name":"text_haifaa",
+			"index":[5,0]
+		},
+		{
+			"name":"text_alicia",
+			"index":[6,0]
+		},
+		{
+			"name":"text_talia",
+			"index":[7,0]
+		},
+		{
+			"name":"text_kaiyang",
+			"index":[8,0]
+		}
+	]
+}

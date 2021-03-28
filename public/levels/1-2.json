@@ -1,0 +1,19 @@
+{
+	"spriteSheet":"breadtalk",
+
+	"layers":[
+		{
+			"tiles":[
+		{
+			"name":"breadtalk",
+			"ranges":[
+				[
+					0,1,
+					1,1
+				]
+			]
+		}
+	]
+}
+		]
+	}

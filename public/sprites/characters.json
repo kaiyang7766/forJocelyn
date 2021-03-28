@@ -1,0 +1,44 @@
+{
+	"imageURL":"/img/mergedchar.png",
+	"tileW":48,
+	"tileH":48,
+
+	"tiles":[
+		{
+			"name":"winnie",
+			"index":[0,0]
+		},
+		{
+			"name":"isaac",
+			"index":[1,0]
+		},
+		{
+			"name":"jiajia",
+			"index":[2,0]
+		},
+		{
+			"name":"peisi",
+			"index":[3,0]
+		},
+		{
+			"name":"dongxin",
+			"index":[4,0]
+		},
+		{
+			"name":"haifaa",
+			"index":[5,0]
+		},
+		{
+			"name":"alicia",
+			"index":[6,0]
+		},
+		{
+			"name":"talia",
+			"index":[7,0]
+		},
+		{
+			"name":"kaiyang",
+			"index":[8,0]
+		}
+	]
+}

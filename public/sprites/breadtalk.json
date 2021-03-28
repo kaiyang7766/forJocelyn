@@ -1,0 +1,12 @@
+{
+	"imageURL":"/img/breadtalk2.png",
+	"tileW":200,
+	"tileH":196,
+
+	"tiles":[
+		{
+			"name":"breadtalk",
+			"index":[0,0]
+		}
+	]
+}
