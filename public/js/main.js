@@ -41,7 +41,7 @@ const context = canvas.getContext('2d');
  	window.camera=camera;
 
  	//const mario =createMario();
- 	mario.pos.set(50,90);
+ 	mario.pos.set(1000,90);
  	house.pos.set(0,0);
  	winnie.pos.set(800,7);
  	isaac.pos.set(1050,0);
