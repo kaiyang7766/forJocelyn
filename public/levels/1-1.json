@@ -24,15 +24,6 @@
 			]
 		},
 		{
-			"pattern":"cloud",
-			"ranges":[
-				[
-					23,1,
-					10,1
-				]
-			]
-		},
-		{
 			"name":"chocolate",
 			"type":"ground",
 			"ranges":[
@@ -48,6 +39,116 @@
 				[
 					20,1,
 					20,1
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					185,3,
+					12,1
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					184,1,
+					13,1
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					183,1,
+					14,3
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					184,1,
+					17,1
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					185,2,
+					18,1
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					186,2,
+					16,1
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					188,1,
+					16,3
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					192,1,
+					12,6
+				]
+			]
+		},
+		{
+			"name":"chance",
+			"type":"ground",
+			"ranges":[
+				[
+					192,6,
+					18,1
+				]
+			]
+		},
+		{
+			"name":"chocolate",
+			"type":"ground",
+			"ranges":[
+				[
+					183,15,
+					22,2
+				]
+			]
+		},
+		{
+			"name":"chocolate",
+			"type":"ground",
+			"ranges":[
+				[
+					184,13,
+					21,1
 				]
 			]
 		}
